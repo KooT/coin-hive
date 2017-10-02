@@ -18,5 +18,5 @@ const CoinHive = require('coin-hive');
   `));
 
   // Stop miner
-  setTimeout(async () => await miner.stop(), 60000);
+
 })();
